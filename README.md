@@ -1,53 +1,53 @@
-Worldwide Layoffs Analysis using MySQL
-Project Overview
+🌍 Worldwide Layoffs Analysis | MySQL Project
+🚀 Project Overview
 
-This project analyzes worldwide layoffs data using MySQL to uncover trends, patterns, and insights about employee layoffs across different industries and countries. The goal is to provide data-driven insights that can help organizations, policymakers, and researchers understand the global workforce impact.
+During my Data Analytics training at Vyyoma Trainings, I developed this project to explore global layoffs trends using MySQL. The goal was to analyze workforce reductions across industries and countries, uncover patterns, and derive actionable insights from real-world data.
 
-Features
+This project demonstrates SQL mastery, data cleaning, aggregation, and trend analysis, transforming raw data into meaningful business intelligence.
 
-Comprehensive SQL Analysis: Query and aggregate data to extract meaningful statistics on layoffs.
+🔥 Key Features
 
-Industry & Country Trends: Identify industries and regions most affected by layoffs.
+SQL-Driven Analysis: Clean, query, and transform layoffs data efficiently.
 
-Temporal Analysis: Track layoffs over time to spot trends and anomalies.
+Global Trends: Identify the most affected countries and industries.
 
-Data Cleaning & Transformation: Handle missing values, duplicates, and standardize data using SQL queries.
+Temporal Insights: Analyze layoffs over months and years to spot patterns.
 
-Visualization Ready: Prepare summarized datasets suitable for dashboards or further visualization in Python, Excel, or BI tools.
+Company-Level Analysis: Highlight organizations with significant workforce reductions.
 
-Tools & Technologies
+Visualization Ready: Export summarized insights for dashboards or further analysis in BI tools.
 
-MySQL – Database management and querying
+🛠 Tools & Technologies
 
-MySQL Workbench – Interactive environment for SQL execution
+MySQL / MySQL Workbench – Data management and complex queries
 
-SQL Queries – Joins, aggregations, filters, and case statements
+SQL Queries – Joins, aggregations, filtering, ranking, and case statements
 
-CSV / Excel – Initial dataset preparation
+CSV / Excel – Dataset preprocessing and import
 
-Insights from Analysis
+📊 Insights & Learnings
 
-Top countries with the highest number of layoffs.
+Countries and industries most impacted by layoffs worldwide.
 
-Industries most affected by workforce reductions.
+Temporal trends showing peak periods of workforce reductions.
 
-Seasonal or temporal patterns in layoffs.
+Companies with significant layoff events and patterns.
 
-Companies with significant layoff events.
+Practical experience in database querying, data cleaning, and analytical reasoning.
 
-How to Use
+📂 How to Use
 
-Clone the repository:
+Clone the Repository:
 
 git clone <repository-url>
 
 
-Load the dataset into MySQL using Workbench or command line.
+Load the Dataset into MySQL Workbench or any MySQL environment.
 
-Run SQL queries provided in the notebook or SQL scripts folder.
+Run SQL Queries from the provided scripts to generate insights.
 
-Analyze the results or export them for further visualization.
+Export Results for visualization or reporting purposes.
 
-Dataset
+💡 Project Impact
 
-Source: Public dataset containing layoffs worldwide with fields like company, industry, country, layoff count, and date.
+This project helps understand global workforce dynamics, identifies vulnerable industries, and equips analysts with actionable insights to make informed business and policy decisions.
